@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-FunC smart contract developer       
-Stack: func, react.js, node.js, fastapi     
+Intern security researcher
 
 📫 How to reach me:
 
